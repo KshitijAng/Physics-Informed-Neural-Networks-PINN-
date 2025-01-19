@@ -2,16 +2,7 @@
 
 ![My Image](Assets/Diagram.png)
 
-
-Welcome to my GitHub repository showcasing my exploration into **Physics-Informed Neural Networks (PINNs)**. This repository highlights my understanding of PINNs and how they can be applied to solve differential equations, starting with a beginner-friendly implementation.
-
-## What are PINNs?
-Physics-Informed Neural Networks (PINNs) are a type of neural network designed to solve problems governed by partial differential equations (PDEs). PINNs leverage:
-
-1. **Data-driven learning**: By training on available data.
-2. **Physics-informed loss**: By embedding physical laws (like conservation laws or PDEs) into the loss function.
-
-This enables PINNs to provide efficient and accurate solutions for problems in computational physics, engineering, and beyond.
+Welcome to my GitHub repository showcasing my exploration into **Physics-Informed Neural Networks (PINNs)**. This repository highlights my understanding of PINNs and how they can be applied to solve differential equations, starting with a beginner-friendly implementation. Kindly read Documentation.pdf for basics.
 
 ## About This Repository
 In this repository, I:
