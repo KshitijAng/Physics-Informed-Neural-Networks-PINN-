@@ -2,7 +2,9 @@
 
 ![My Image](Assets/Diagram.png)
 
-Welcome to my GitHub repository showcasing my exploration into **Physics-Informed Neural Networks (PINNs)**. This repository highlights my understanding of PINNs and how they can be applied to solve differential equations, starting with a beginner-friendly implementation. Kindly read Documentation.pdf for basics.
+Welcome to my GitHub repository showcasing my exploration into **Physics-Informed Neural Networks (PINNs)**. This repository highlights my understanding of PINNs and how they can be applied to solve differential equations, starting with a beginner-friendly implementation. 
+
+Note -> Kindly read Documentation.pdf for basics.
 
 ## About This Repository
 In this repository, I:
